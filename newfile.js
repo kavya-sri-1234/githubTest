@@ -1,1 +1,1 @@
-document.write("Hello World");
+document.write("This is text wrtitten within  the JavaScript file");
