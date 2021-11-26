@@ -1,17 +1,17 @@
 var Person1 = new Object()
-Person1.FirstName = "PF1",
-Person1.LastName = "PL1",
-Person1.OfficeAddress = "POA1"
+Person1.FirstName = "KAVYA",
+Person1.LastName = "SREE",
+Person1.OfficeAddress = "NTR NAGAR,KOVVUR"
 
 var Person2 = new Object()
-Person2.FirstName = "PF2",
-Person2.LastName = "PL2",
-Person2.OfficeAddress = "POA2"
+Person2.FirstName = "MYTHILY",
+Person2.LastName = "SREE SAI",
+Person2.OfficeAddress = "BHAGYA NAGAR,KADAPA"
 
 var Person3 = new Object()
-Person3.FirstName = "PF3",
-Person3.LastName = "PL3",
-Person3.OfficeAddress = "POA3"
+Person3.FirstName = "RAJESH",
+Person3.LastName = "KUMAR",
+Person3.OfficeAddress = "RK NAGAR,VIZAG"
 
 console.log("Person1:")
 console.log("FirstName: " + Person1.FirstName)
